@@ -1,0 +1,18 @@
+.mainArea {
+  background-color: rgb(247,246,235);
+  width: 100%;
+  height: 100%;
+}
+
+.titleArea {
+  text-align: center;
+}
+
+#title {
+  font-family: monospace;
+  font-size: 45px;
+}
+
+.contentsArea {
+  text-align: center;
+}
