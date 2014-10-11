@@ -1,0 +1,36 @@
+﻿img.thumb {
+  width: 100px;
+  height: 75px;
+  border: none;
+  margin: 15px;
+}
+
+#itm_ranking {
+  float: center;
+  width: 100%;
+  height: 300px;
+  margin-bottom: 20px;
+}
+
+.itm_search {
+  float: center;
+  width: 100%;
+  height: 500px;
+  margin-bottom: 20px;
+}
+
+#prog {
+  display: none;
+}
+
+#pager {
+  text-align: center;
+}
+
+.pager_link {
+  margin: 5px;
+  padding: 4px;
+  background-color: #006;
+  color: #fff;
+  text-decoration: none;
+}

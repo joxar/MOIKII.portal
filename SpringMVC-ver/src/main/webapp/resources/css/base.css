@@ -1,0 +1,60 @@
+/***** WHOLE *****/
+body {
+	font-size: 12px;
+}
+
+#mainArea {
+  float: left;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(247,246,235);
+}
+
+/*** HEADER AREA ***/
+#mainHeader {
+  float: left;
+  width: 100%;
+  height: 160px;
+  text-align: center;
+}
+
+#mainTitle {
+  font-family: monospace;
+  font-size: 60px;
+}
+
+/*** TAB AREA ***/
+#tabsArea {
+  float: left;
+  width: 100%;
+  height: 30px;
+}
+
+#tabsArea ul li a span {
+  width: 150px;
+  background-color: rgb(247,246,235);
+  border: 1px 1px 0px 1px;
+  text-align: center;
+  font-size: 20px;
+}
+
+#tabBase {
+  width: 100%;
+}
+
+#tab_myClock,
+#tab_myYouTube,
+#tab_myWine {
+  float: left;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 28px;
+  background-color: rgb(247,246,235);
+}
+
+/*** 繧ｳ繝ｳ繝�繝ｳ繝�繧ｨ繝ｪ繧｢ ***/
+#tabsArea ul {
+  width: 100%;
+  margin: 0% 0% 0% 30%;
+}
